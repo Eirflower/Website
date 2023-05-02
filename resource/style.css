@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+.wrapper {
+	background-color: #55a8e8;
+}
+.header {
+	padding-top: 3px;
+	text-align: center;
+}
+.content {
+	background-color: #ffffff;
+}
