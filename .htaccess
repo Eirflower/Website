@@ -1,2 +1,2 @@
-ErrorDocument 403 https://%{HTTP_HOST}/errors/forbidden.html
-ErrorDocument 404 https://%{HTTP_HOST}/errors/bad_url.html
+ErrorDocument 403 https://%{HTTP_HOST}/error/forbidden.html
+ErrorDocument 404 https://%{HTTP_HOST}/error/not_found.html
