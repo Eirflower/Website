@@ -11,6 +11,10 @@ body {
 .header {
 	padding-top: 3px;
 }
+.logo {
+	height: 150px;
+	width: 150px;
+}
 .content {
 	background-color: #eeffff;
 	padding: 3px;
